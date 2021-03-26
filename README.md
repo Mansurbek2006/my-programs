@@ -1,2 +1,2 @@
 # my-programs
-My name is Mansurbek. I'am 15 years old.
+Here is a collection of my first programs.
